@@ -1,0 +1,11 @@
+git init
+git pull "remote repository"
+git add "file name"
+git commit -m "message"
+git status
+git branch -m master main
+git remote add origin "remote repository"
+git push origin main
+
+to make new branch
+git checkcout -b "name of branch"
